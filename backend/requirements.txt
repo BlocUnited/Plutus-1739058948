@@ -1,0 +1,8 @@
+bcrypt
+email-validator
+fastapi
+motor
+pydantic
+pyjwt
+pymongo
+uvicorn
